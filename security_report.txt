@@ -1,0 +1,27 @@
+AUTOMATED WEB SECURITY HEADER REPORT
+========================================
+Website: https://example.com
+HTTP Status: 200
+Date: 2026-10-21 21:32:58.342611
+
+Security Score: 0/100
+Security Rating: Needs Improvement
+
+HEADERS PRESENT:
+
+HEADERS MISSING:
+[MISSING] Content-Security-Policy
+Recommendation: Helps protect against code-injection attacks
+[MISSING] Strict-Transport-Security
+Recommendation: Encourages secure HTTPS connections
+[MISSING] X-Content-Type-Options
+Recommendation: Helps prevent MIME-type sniffing
+[MISSING] X-Frame-Options
+Recommendation: Helps protect against clickjacking
+[MISSING] Referrer-Policy
+Recommendation: Controls referrer information sent by browsers
+[MISSING] Permissions-Policy
+Recommendation: Controls access to browser features
+
+Note: This is a basic security-header check.
+It is not a complete security audit.
